@@ -1,10 +1,1 @@
-# DocumentSearchUsingLucene
-# DecisionTreeWithPython
-# DecisionTreeWithPython
-# DecisionTreeWithPython
-# DecisionTreeWithPython
-# DecisionTreeWithPython
-# SinglePerceptronUsingDeltaRule
-# SinglePerceptronUsingDeltaRule
-# DecisionTreeWithPython
 # LinearRegressionUsingGradientDescent
